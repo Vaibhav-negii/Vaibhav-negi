@@ -107,4 +107,4 @@ Check out my repositories to see what I'm building!
 
 Committed to coding every single day and tracking my progress through Git!
 
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=blueviolet&style=for-the-badge)
+![Profile Views](https://komarev.com/ghpvc/?username=Vaibhav-negii&color=blueviolet&style=for-the-badge)
