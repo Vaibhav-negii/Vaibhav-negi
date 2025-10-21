@@ -20,6 +20,7 @@ I'm a passionate developer learning modern web technologies and building real-wo
 
 ---
 [![Oracle OCI Credly Badge](https://images.credly.com/...)](https://catalog-education.oracle.com/pls/certview/sharebadge?id=A949475A9818A3104D3579B3D48DDF9A0C5BE753EAFE72F309469AEC426F6C48)
+
 ## 💻 Tech Stack
 
 **Frontend:**
