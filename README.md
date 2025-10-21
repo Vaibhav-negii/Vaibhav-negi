@@ -20,9 +20,10 @@ I'm a passionate developer learning modern web technologies and building real-wo
 - **Valid Until:** October 20, 2027  
 - **Credential ID:** 323167661OCI25FNDCFA  
 - **Verification:** [Verify on Oracle CertView](https://catalog-education.oracle.com/pls/certview/sharebadge?id=A949475A9818A3104D3579B3D48DDF9A0C5BE753EAFE72F309469AEC426F6C48)
+- [![Simplilearn](https://img.icons8.com/plasticine/48/000000/certificate.png)](9199912_92378801760885804766.pdf)  
+  INTRODUCTION TO FRONT END DEVELOPMENT
 
----
-
+--
 
 ## 💻 Tech Stack
 
