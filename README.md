@@ -14,7 +14,7 @@ I'm a passionate developer learning modern web technologies and building real-wo
 
 - **Certification:** Oracle Cloud Infrastructure 2025 Certified Foundations Associate
   
-[Download Oracle Certificate](certificates/oracle_certificate.jpg)
+[Download Oracle Certificate](certificates/OracleCertificate.jpg)
 
 - **Date Earned:** October 20, 2025  
 - **Valid Until:** October 20, 2027  
