@@ -20,8 +20,36 @@ I'm a passionate developer learning modern web technologies and building real-wo
 - **Valid Until:** October 20, 2027  
 - **Credential ID:** 323167661OCI25FNDCFA  
 - **Verification:** [Verify on Oracle CertView](https://catalog-education.oracle.com/pls/certview/sharebadge?id=A949475A9818A3104D3579B3D48DDF9A0C5BE753EAFE72F309469AEC426F6C48)
--  INTRODUCTION TO FRONT END DEVELOPMENT
-- [![Simplilearn](https://img.icons8.com/plasticine/48/000000/certificate.png)](certificates/9199912_92378801760885804766.pdf)  
+### 🎨 Introduction to Front End Development
+
+![Front End Badge](https://img.shields.io/badge/Simplilearn-Front_End_Development-FF6F00?style=for-the-badge&logo=html5&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+
+<div align="center">
+
+[![Certificate Icon](https://img.icons8.com/plasticine/100/000000/certificate.png)](certificates/9199912_92378801760885804766.pdf)
+
+**🎓 Certification:** Introduction to Front End Development  
+**📚 Platform:** Simplilearn SkillUp  
+**⏱️ Duration:** 12 Hours Self-Paced Learning  
+**📅 Completed:** October 2025
+
+</div>
+
+#### 📖 Skills Covered:
+- ✅ HTML & CSS Fundamentals
+- ✅ JavaScript & DOM Manipulation
+- ✅ Git & GitHub Version Control
+- ✅ ReactJS & Angular Frameworks
+- ✅ Responsive Web Design
+
+📥 **[Download Certificate](certificates/9199912_92378801760885804766.pdf)**
+
+---
+
   
 [Download Deloitte Certificate](certificates/udmxiyHeqYQLkTPvf_9PBTqmSxAf6zZTseP_68ef66ec6cc8a2b49f748f65_1761119795819_completion_certificate.pdf)
 
