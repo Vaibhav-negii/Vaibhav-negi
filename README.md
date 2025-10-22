@@ -51,15 +51,38 @@ I'm a passionate developer learning modern web technologies and building real-wo
 ---
 
   
-[Download Deloitte Certificate](certificates/udmxiyHeqYQLkTPvf_9PBTqmSxAf6zZTseP_68ef66ec6cc8a2b49f748f65_1761119795819_completion_certificate.pdf)
+### 💼 Deloitte Technology Job Simulation
 
-- **Date Earned:** October 22, 2025  
-- **Enrollment Verification Code:** TbvYJpg8ebFevdDKJ  
-- **User Verification Code:** 68ef66ec6cc8a2b49f748f65  
-- **Issued by:** Forage
+![Deloitte Badge](https://img.shields.io/badge/Deloitte-Technology_Consulting-0076A8?style=for-the-badge&logo=deloitte&logoColor=white)
+![Forage](https://img.shields.io/badge/Platform-Forage-00C4CC?style=for-the-badge)
+![Coding](https://img.shields.io/badge/Focus-Coding_&_Development-success?style=for-the-badge&logo=code&logoColor=white)
+![Status](https://img.shields.io/badge/Status-Completed-brightgreen?style=for-the-badge)
 
 
---
+[![Certificate Icon](https://img.icons8.com/plasticine/100/000000/certificate.png)](certificates/udmxiyHeqYQLkTPvf_9PBTqmSxAf6zZTseP_68ef66ec6cc8a2b49f748f65_1761119795819_completion_certificate.pdf)
+
+**🎓 Program:** Deloitte Technology Job Simulation  
+**🏢 Company:** Deloitte  
+**📚 Platform:** Forage  
+**📅 Date Earned:** October 22, 2025
+
+
+
+#### 🔧 Skills Demonstrated:
+- ✅ Coding & Software Development
+- ✅ Technology Consulting
+- ✅ Problem Solving
+- ✅ Professional Development
+
+#### 🔐 Verification Details:
+- **Enrollment Code:** `TbvYJpg8ebFevdDKJ`
+- **User Verification:** `68ef66ec6cc8a2b49f748f65`
+- **Issued By:** Forage
+
+📥 **[Download Certificate](certificates/udmxiyHeqYQLkTPvf_9PBTqmSxAf6zZTseP_68ef66ec6cc8a2b49f748f65_1761119795819_completion_certificate.pdf)**
+
+---
+
 
 ## 💻 Tech Stack
 
