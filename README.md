@@ -28,7 +28,7 @@ I'm a passionate developer learning modern web technologies and building real-wo
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 
-<div align="center">
+
 
 [![Certificate Icon](https://img.icons8.com/plasticine/100/000000/certificate.png)](certificates/9199912_92378801760885804766.pdf)
 
@@ -37,7 +37,7 @@ I'm a passionate developer learning modern web technologies and building real-wo
 **⏱️ Duration:** 12 Hours Self-Paced Learning  
 **📅 Completed:** October 2025
 
-</div>
+
 
 #### 📖 Skills Covered:
 - ✅ HTML & CSS Fundamentals
