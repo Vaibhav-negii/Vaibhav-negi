@@ -22,7 +22,7 @@ I'm a passionate developer learning modern web technologies and building real-wo
 - **Verification:** [Verify on Oracle CertView](https://catalog-education.oracle.com/pls/certview/sharebadge?id=A949475A9818A3104D3579B3D48DDF9A0C5BE753EAFE72F309469AEC426F6C48)
 -  INTRODUCTION TO FRONT END DEVELOPMENT
 - [![Simplilearn](https://img.icons8.com/plasticine/48/000000/certificate.png)](certificates/9199912_92378801760885804766.pdf)  
-  INTRODUCTION TO FRONT END DEVELOPMENT
+  
 [Download Deloitte Certificate](certificates/udmxiyHeqYQLkTPvf_9PBTqmSxAf6zZTseP_68ef66ec6cc8a2b49f748f65_1761119795819_completion_certificate.pdf)
 
 - **Date Earned:** October 22, 2025  
